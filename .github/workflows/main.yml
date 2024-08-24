@@ -6,8 +6,8 @@ on:
   workflow_dispatch:  # This allows the workflow to be manually triggered
 
 env:
-  NAME: repo-name-here
-  URL: repo-url-here
+  NAME: nano-editor
+  URL: https://git.savannah.gnu.org/git/nano.git
 
 jobs:
   sync-repo:
