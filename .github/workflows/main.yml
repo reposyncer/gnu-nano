@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Sync repository
-      uses: reposyncer/reposync@v1
+      uses: reposyncer/reposync@v1.1
       with:
         name: gnu-nano
         url: https://git.savannah.gnu.org/git/nano.git
