@@ -14,4 +14,4 @@ jobs:
       uses: reposyncer/reposync@v1
       with:
         name: gnu-nano
-        url: repo-url-here
+        url: https://git.savannah.gnu.org/git/nano.git
